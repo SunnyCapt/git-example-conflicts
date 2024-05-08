@@ -1,10 +1,14 @@
 # example
-1
-2
-3
-4
-5
-6
-7
-8
-9
+1 go
+2 ga
+3 ge
+4 gi
+5 h 
+6 h 
+7 n 
+8 n 
+9 n
+ kot
+sobaka
+
+Ivan
